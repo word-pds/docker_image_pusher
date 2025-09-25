@@ -1,2 +1,3 @@
 tomcat
 nginx
+centos
